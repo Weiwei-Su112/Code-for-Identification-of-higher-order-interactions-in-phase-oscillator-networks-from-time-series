@@ -1,0 +1,9 @@
+Confusion Values,Estimate - Ada. LASSO,Estimate - LASSO,Estimate - MLE
+TP_2,11,10,11
+TN_2,121,121,105
+FP_2,0,0,16
+FN_2,0,1,0
+TP_3,0,0,0
+TN_3,660,648,637
+FP_3,0,12,23
+FN_3,0,0,0
